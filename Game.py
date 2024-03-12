@@ -3,8 +3,8 @@ from sys import exit
 import math
 from random import randint
 # from pygame.sprite import _Group
-from GameInfo import *
-from LoadingScreen import *
+from Settings import *
+from Settings import *
 
 pygame.init()
 
